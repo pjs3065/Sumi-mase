@@ -1,0 +1,51 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     1008 MB
+    Driver:   20.19.15.4568
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\modify3\sumi-mase(박재성,한민성)\SUMI-MASE_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\modify3\sumi-mase(박재성,한민성)\SUMI-MASE_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\modify3\sumi-mase(박재성,한민성)\SUMI-MASE_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\modify3\sumi-mase(박재성,한민성)\SUMI-MASE_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\modify3\sumi-mase(박재성,한민성)\SUMI-MASE_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\modify3\sumi-mase(박재성,한민성)\SUMI-MASE_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\modify3\sumi-mase(박재성,한민성)\SUMI-MASE_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\modify3\sumi-mase(박재성,한민성)\SUMI-MASE_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.026 seconds
+Platform assembly: D:\modify3\sumi-mase(박재성,한민성)\SUMI-MASE_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\modify3\sumi-mase(박재성,한민성)\SUMI-MASE_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 40Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.753916 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 33e4 -> priority: 1 
+  Thread -> id: 2d18 -> priority: 1 
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour (Game Object 'Redball2') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'Redball') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.866117 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 564.
+Total: 0.383952 ms (FindLiveObjects: 0.057382 ms CreateObjectMapping: 0.040587 ms MarkObjects: 0.265454 ms  DeleteObjects: 0.020060 ms)
+
